@@ -49,7 +49,7 @@ A deep learning-based sentiment analysis web application built using **BERT**, c
 ### 1️. Clone the repository
 
 (bash)
-git clone https://github.com/YOUR_USERNAME/bert-sentiment-analysis.git
+git clone https://github.com/swayamkrr03/bert-sentiment-analysis.git
 cd bert-sentiment-analysis
 
 ### 2. Install dependencies
